@@ -1,6 +1,6 @@
 #Coinnode Specifications
 
-Coin Name : Gainer Coin
+Coin Name : Coinnode
 
 Ticker : CNE
 
