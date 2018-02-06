@@ -17,4 +17,5 @@ Coin Maturity :20
 MAX SUPPLY : 100,000,000 Coins
 
 RPC Port: 9875
-Network Port: 9876# Coinnode
+Network Port: 9876
+# Coinnode
